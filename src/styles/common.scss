@@ -1,0 +1,57 @@
+/* Common styles */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #3a3838;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn {
+  transition-duration: .3s;
+  transition-timing-function: ease-in-out;
+  transition-property: background;
+  padding: 8px 20px;
+  font-size: 14px;
+  letter-spacing: 0.6px;
+}
+
+.btn-primary {
+  background-color: #e00;
+  border-color: #e00;
+
+
+  &:hover, &:active, &:focus {
+    background-color: #ae0000;
+    border-color: #ae0000;
+  }
+}
+
+.navbar-inverse {
+  background-color: #323232;
+  border-color: #323232;
+}
+
+.nav>li>a.active, .nav>li>a.active:focus, .nav>li>a.active:hover {
+  color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+
+  .btn {
+    font-size: 16px;
+    padding: 10px 30px;
+  }
+}

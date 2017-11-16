@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Compiled folder
+dist
+
+# Miscellaneous
+.idea
+coverage
+.nyc_output
