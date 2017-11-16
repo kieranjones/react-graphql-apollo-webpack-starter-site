@@ -1,4 +1,4 @@
-## React, GraphQL, Apollo, Webpack Starter site
+## React, Node, GraphQL, Apollo, Webpack, React Router Starter site
 
 Author: Kieran Jones
 Email: jones.kieran@hotmail.com
