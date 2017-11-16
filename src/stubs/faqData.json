@@ -1,9 +1,8 @@
 {
     "homepage": {
-    "heading": "React Playground",
-        "subheading": "React, Node, GraphQL, Apollo, Webpack Starter Site",
-        "heroImageUrl": ""
-},
+        "heading": "React Playground",
+        "subheading": "React, Node, GraphQL, Apollo, Webpack Starter Site"
+    },
     "faqs": [
     {
         "title": "Why is React so cool?",

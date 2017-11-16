@@ -5,7 +5,6 @@ const homepageQuery = gql`
         homepage {
             heading
             subheading
-            heroImageUrl
         }
     }
 `;

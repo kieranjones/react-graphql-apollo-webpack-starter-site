@@ -8,8 +8,7 @@ describe('Home Container', () => {
         const result = {
             homepage: {
                 "heading": "Heading",
-                "subheading": "Subheading",
-                "heroImageUrl": "https://someurl"
+                "subheading": "Subheading"
             }
         };
 

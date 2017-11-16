@@ -21,8 +21,7 @@ const HomepageType =  new GraphQLObjectType({
 	name: 'Homepage',
 	fields: {
 		heading: { type: GraphQLString },
-		subheading: { type: GraphQLString },
-		heroImageUrl: { type: GraphQLString }
+		subheading: { type: GraphQLString }
 	}
 });
 
