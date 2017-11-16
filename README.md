@@ -27,9 +27,9 @@ Email: jones.kieran@hotmail.com
 
 Run `npm run dev:start`
 
-Site wil run at http://localhost:3000
-GrahiQL can be access from http://localhost:3000/graphql
-Direct access to api url: http://localhost:3000/api/faqData
+* Site wil run at http://localhost:3000
+* GrahiQL can be access from http://localhost:3000/graphql
+* Direct access to api url: http://localhost:3000/api/faqData
 
 ## Unit testing
 
