@@ -40,4 +40,4 @@ To run tests use `npm run test`
 To run linting by itself run `npm run lint`
 
 ## Image Source
-Photo by ![Irene Dávila](https://unsplash.com/photos/9Y5Wk7favpE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on ![Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by Irene Dávila on Unsplash
